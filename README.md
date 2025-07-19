@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts refences from dinesh.
+Schell Scripts.
