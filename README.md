@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts are given for reference
+Schell Scripts are given for reference snd practice
