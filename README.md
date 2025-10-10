@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for fetch.
+Schell Scripts for fetch pratice.
