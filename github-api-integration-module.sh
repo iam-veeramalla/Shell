@@ -3,6 +3,7 @@
 # Author: Abhishek
 # Version: v1
 #
+# adding this comment to show my pull request for assignment 1
 #
 #
 # This script will help users to communicate and retrieve information from GitHub
