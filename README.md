@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts Practise
+Schell Scripts for Leaning and reference
