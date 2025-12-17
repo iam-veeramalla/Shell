@@ -1,10 +1,9 @@
 #!/bin/bash
 ################################
 # Author: Abhishek
-# Version: v1
+# i have added this line as a part of testing to the test_1 branch i have created
 #
-#
-#
+# added this line for pull test of test_1 branch
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
 #   Please provide your github token and rest api to the script as input
