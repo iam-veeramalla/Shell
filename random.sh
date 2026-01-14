@@ -1,0 +1,7 @@
+CHARS='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'
+LENGTH=10
+RANDOM_STRING=""
+for (( i=0; i<LENGTH; i++ )); do
+    RANDOM_STRING+=${CHARS:RANDOM%${#CHARS}:1}
+done
+echo "$RANDOM_STRING"
