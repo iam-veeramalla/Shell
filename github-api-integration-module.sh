@@ -16,6 +16,7 @@ if [ ${#@} -lt 2 ]; then
     exit 1;
 fi
 
+#GitHub Tokens
 GITHUB_TOKEN=$1
 GITHUB_API_REST=$2
 
