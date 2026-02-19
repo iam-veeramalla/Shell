@@ -2,7 +2,7 @@
 ################################
 # Author: Abhishek
 # Version: v1
-# my name is hemanth
+# my name is hemanth from update_description branch
 #
 #
 # This script will help users to communicate and retrieve information from GitHub
