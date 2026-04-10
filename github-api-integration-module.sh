@@ -45,7 +45,3 @@ else
 fi
 
 cat $TMPFILE
-
-
-
-
