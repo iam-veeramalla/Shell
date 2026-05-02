@@ -2,13 +2,11 @@
 ################################
 # Author: Abhishek
 # Version: v1
+#hey there 
 #
-#
-#
-# This script will help users to communicate and retrieve information from GitHub
 # Usage:
 #   Please provide your github token and rest api to the script as input
-#
+Hey there these are my changes to the desc for testing 
 ################################
 
 if [ ${#@} -lt 2 ]; then
@@ -45,3 +43,4 @@ else
 fi
 
 cat $TMPFILE
+
