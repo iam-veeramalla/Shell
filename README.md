@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts
+Shell scripts for reference and practice by abhishek
