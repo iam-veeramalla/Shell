@@ -1,9 +1,10 @@
-#!/bin/bash
+github-api-integration-module.shi
 ################################
 # Author: Abhishek
 # Version: v1
 #
 #
+# my name 
 #
 # This script will help users to communicate and retrieve information from GitHub
 # Usage:
