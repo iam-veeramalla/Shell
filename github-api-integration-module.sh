@@ -9,6 +9,7 @@
 # Usage:
 #   Please provide your github token and rest api to the script as input
 #
+#gagan update-1-a
 ################################
 
 if [ ${#@} -lt 2 ]; then
